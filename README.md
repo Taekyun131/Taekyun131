@@ -34,15 +34,7 @@
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>&nbsp
   <br>
-  <br>
-  <br>
 </div>
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taekyun131&layout=compact&theme=algolia)  
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taekyun131&theme=gruvbox&show_icons=true)
-
 
 ## :clipboard: Project
 <div>
@@ -52,7 +44,17 @@
   <div>
     2. 병원 예약 플랫폼 (AI 기능 추가)-<a href="https://github.com/Taekyun131/AI_FinalProject">Asklepios V2.0</a>
   </div>
+   <br>
+  <br>
+  <br>
 </div>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taekyun131&layout=compact&theme=algolia)  
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taekyun131&theme=gruvbox&show_icons=true)
+
+
+
 
 
 
