@@ -37,17 +37,12 @@
 </div>
 
 ## :clipboard: Project
-<div>
-  <div>
-    1. 병원 예약 플랫폼-<a href="https://github.com/Taekyun131/Spring_FinalProject">Asklepios</a> &nbsp
-  </div>
-  <div>
-    2. 병원 예약 플랫폼 (AI 기능 추가)-<a href="https://github.com/Taekyun131/AI_FinalProject">Asklepios V2.0</a>
-  </div>
-   <br>
-  <br>
-  <br>
-</div>
+
+  
+####   1. 병원 예약 플랫폼-<a href="https://github.com/Taekyun131/Spring_FinalProject">Asklepios</a>
+  
+####    2. 병원 예약 플랫폼 (AI 기능 추가)-<a href="https://github.com/Taekyun131/AI_FinalProject">Asklepios V2.0</a>
+ 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taekyun131&layout=compact&theme=algolia)  
 
