@@ -14,7 +14,7 @@
   </div>
   
 ## :computer:TECH STACK
-### FRONTEND
+#### FRONTEND
  <div>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>&nbsp
 </div>
 
-### BACKEND
+#### BACKEND
 <div>
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>&nbsp
@@ -41,7 +41,7 @@
   
 ####   1. 병원 예약 플랫폼-<a href="https://github.com/Taekyun131/Spring_FinalProject">Asklepios</a>
   
-####    2. 병원 예약 플랫폼 (AI 기능 추가)-<a href="https://github.com/Taekyun131/AI_FinalProject">Asklepios V2.0</a>
+####    2. 병원 예약 플랫폼 (AI 기능 추가)-<a href="https://github.com/Taekyun131/AI_FinalProject">Asklepios v2.0</a>
  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taekyun131&layout=compact&theme=algolia)  
