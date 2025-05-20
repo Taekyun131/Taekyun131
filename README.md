@@ -39,8 +39,8 @@
 
 #### STUDYING
 <div>
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">>> <a href="https://github.com/Taekyun131/DJANGO_TUTORIAL">리포지토리</a><br>
+  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">>> <a href="https://github.com/Taekyun131/NODEJS_TUTORIAL">리포지토리</a>
  
 </div>
 
